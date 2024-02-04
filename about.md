@@ -3,5 +3,5 @@ layout: layout.liquid
 title: About
 ---
 
-# About the 11ty **Boilerplate**
+# All About the  **Galaxy**
 <img class="about" alt="pine" src="/images/pine.png" width="50" />

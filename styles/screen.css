@@ -48,6 +48,7 @@ h1 strong {
 h3 {
     display:flex;
     text-align:center;
-    font-family: 'Courier New', Courier, monospace
-    
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+    margin:50px;
 }

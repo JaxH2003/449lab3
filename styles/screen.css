@@ -1,6 +1,6 @@
 body {
     font-family: Helvetica, sans-serif;
-    color: #EAE8FF;
+    color: #e1e8a5;
     background: #40486b;
     padding: 0 40px;
     text-align: center;
@@ -51,4 +51,10 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
     padding: 0px;
     margin:50px;
+}
+.user_name {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.last_name {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
